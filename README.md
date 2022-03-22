@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinayKundur
-- 👀 I’m interested in ... Python, Matlab for DSP projects
-- 🌱 I’m currently learning ...Python, Matlab for DSP and Architecture modelling
+- 👀 I’m interested in ... Python, Matlab for Wireless and Wireline system and circuit modelling
+- 🌱 I’m currently learning ...Python, Matlab for Wireless and Wireline system and circuit modelling
 - 💞️ I’m looking to collaborate on ...Basic and Intermediate level Python and Matlab projects
 - 📫 How to reach me ... email: vinaykundur@gmail.com
 
